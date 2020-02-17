@@ -3,8 +3,8 @@ p='\033[1;35m'
 clear
 echo -e "\033[1;32m"
 echo "         {Ctrl C} exit "
-echo "[1] Download Virus4 versions {4.6.8}"
-echo "[2] Download Virus4 versions {5.0.0}"
+echo "[1] Download Virusx versions {4.6.8}"
+echo "[2] Download Virusx versions {5.0.0}"
 echo ""
 echo -e "$p"
 read -p  "number-------> " download
@@ -13,9 +13,9 @@ if [ "$download" -eq "1"  ]; then
  cd
  clear
  termux-setup-storage
- rm -rf $HOME/Virus
- rm -rf $HOME/Virus4.zip
- rm -rf $HOME/Virus4
+ rm -rf $HOME/Virusx
+ rm -rf $HOME/Virusx.zip
+ rm -rf $HOME/Virusx
  clear
  echo -e $g 'Please Wait ===+['$p'>              '$g']\'
  sleep 0.4
