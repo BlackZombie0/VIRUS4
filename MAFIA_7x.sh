@@ -13,7 +13,7 @@ if [ "$download" -eq "1"  ]; then
  cd
  clear
  termux-setup-storage
- rm -rf $HOME/Virusx
+ rm -rf $HOME/MAFIA_7X
  rm -rf $HOME/Virusx.zip
  rm -rf $HOME/Virusx
  clear
