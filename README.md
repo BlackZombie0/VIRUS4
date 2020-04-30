@@ -1,24 +1,19 @@
 # VIRUS4
 
+تمت برمجة هده الاداة بي مساعدةvairos4 و vairosXdz و VairosC7x و FSOCIETY-coder-dz
 
-تمت برمجة هده الاداة بي مساعدة vairos4 و vairosXdz و VairosC7x 
-
+# .... Installation orders ......
 
 apt-get install bash
 
-
 apt-get update 
 
+git clone https://github.com/FSOCIETY-coder-dz/VIRUS4.git
 
+cd VIRUS4
 
-git clone https://github.com/MoussaUfonet/Moussa.git
+chmod 777 virus.sh
 
+bash virus.sh
 
-
-cd Moussa
-
-
-bash Moussa.sh
-
-
-كان معكم VairosxDz
+# Was with you FSOCIETY-coder-dz
